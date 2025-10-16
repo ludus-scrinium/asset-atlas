@@ -8,7 +8,7 @@
   <img src="./docs/heropfp.png" alt="asset atlas" width="120">
 </p>
 
-# asset atlas — findable game files
+# asset atlas
 
 ## what this is
 a simple, searchable catalog for game assets (images, audio, fx, text) so teams can find what they need, when they need it
