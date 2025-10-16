@@ -19,9 +19,9 @@ a simple, searchable catalog for game assets (images, audio, fx, text) so teams 
 - makes reuse and review easier
 
 ## try it in 5 minutes
-1) open **/docs/SETUP.md**  
-2) load the sample data in **/data/samples/**  
-3) use the quick search (cli or minimal ui) to find an asset by tag
+1)  open **/docs/SETUP.md**  
+2)  load the sample data in **/data/samples/**  
+3)  use the quick search (cli or minimal ui) to find an asset by tag
 
 ## demo
 - 60–90s clip: **/demo/asset-atlas-v0.mp4** *(placeholder)*
