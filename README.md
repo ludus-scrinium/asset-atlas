@@ -1,33 +1,38 @@
-# asset-atlas
-Make game files easy to find and reuse (search + tags).
+<p align="right"><a href="https://github.com/ludus-scrinium/ludus-scrinium-hub">← back to hub</a></p>
 
-# <Repo Name> — LUDUS SCRINIUM
+# asset atlas — findable game files
 
-## What this is
-A simple, searchable catalog for game assets so teams can find what they need, when they need it.
+## what this is
+a simple, searchable catalog for game assets (images, audio, fx, text) so teams can find what they need in seconds.
 
-## Why it matters
-- Cuts time spent hunting files
-- Reduces duplicate work
-- Makes reuse and review easier
+## why it matters
+- cuts time spent hunting files
+- reduces duplicate work
+- makes reuse and review easier
 
-## What’s here (v0)
-- `/data` sample data
-- `/src` minimal code/prototype
-- `/docs` short guides & one-pagers
-- `/scripts` tiny helpers
-- `/demo` GIFs and short videos
+## try it in 5 minutes
+1) open **/docs/SETUP.md**  
+2) load the sample data in **/data/samples/**  
+3) use the quick search (cli or minimal ui) to find an asset by tag
 
-## Try it in 5 minutes
-1) Clone this repo
-2) Follow the steps in `/docs/SETUP.md`
-3) Open `/demo` and watch the 60-sec video
+## demo
+- 60–90s clip: **/demo/asset-atlas-v0.mp4** *(placeholder)*
 
-## Roadmap (next 4 weeks)
-- [ ] Milestone 1: Set up 
-- [ ] Milestone 2:
-- [ ] Milestone 3:
-- [ ] Milestone 4:
+## data policy
+- only tiny, **synthetic** samples live in `/data`
+- real/studio data stays private in confluence
 
-## License
-MIT (unless noted otherwise for sample assets)
+## roadmap (next 4 weeks)
+- [ ] wk1: folder scaffold + sample csv/json + minimal search
+- [ ] wk2: tags + facets (type, owner, last_used)
+- [ ] wk3: “recently used” + basic upload notes
+- [ ] wk4: export a one-pager catalog for a feature branch
+
+## status + links
+- setup: **/docs/SETUP.md**
+- one-pager: **/docs/WHAT-THIS-DOES.md** *(placeholder)*
+- license: **MIT**
+
+---
+
+<p align="center"><a href="https://github.com/ludus-scrinium/ludus-scrinium-hub">← back to hub</a></p>
