@@ -11,7 +11,7 @@
 # asset atlas — findable game files
 
 ## what this is
-a simple, searchable catalog for game assets (images, audio, fx, text) so teams can find what they need in seconds.
+a simple, searchable catalog for game assets (images, audio, fx, text) so teams can find what they need, when they need it
 
 ## why it matters
 - cuts time spent hunting files
