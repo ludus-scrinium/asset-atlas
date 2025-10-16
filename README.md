@@ -1,4 +1,12 @@
-<p align="right"><a href="https://github.com/ludus-scrinium/ludus-scrinium-hub">← back to hub</a></p>
+<p align="right">
+  <a href="https://github.com/ludus-scrinium/ludus-scrinium-hub">
+    <img src="https://img.shields.io/badge/←%20back%20to%20hub-111?style=for-the-badge" alt="back to hub">
+  </a>
+</p>
+
+<p align="right">
+  <img src="./docs/heropfp.png" alt="asset atlas" width="120">
+</p>
 
 # asset atlas — findable game files
 
@@ -32,6 +40,19 @@ a simple, searchable catalog for game assets (images, audio, fx, text) so teams 
 - setup: **/docs/SETUP.md**
 - one-pager: **/docs/WHAT-THIS-DOES.md** *(placeholder)*
 - license: **MIT**
+
+---
+
+<p align="center">
+  <img src="./docs/heropfp.png" alt="asset atlas" width="96">
+</p>
+
+<p align="center">
+  <a href="https://github.com/ludus-scrinium/ludus-scrinium-hub">
+    <img src="https://img.shields.io/badge/←%20back%20to%20hub-111?style=for-the-badge" alt="back to hub">
+  </a>
+</p>
+
 
 ---
 
