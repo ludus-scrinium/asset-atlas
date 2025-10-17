@@ -1,10 +1,8 @@
 ﻿<!-- LS BADGES START -->
 <p align="left">
   <a href="https://github.com/ludus-scrinium/asset-atlas/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/ludus-scrinium/asset-atlas"></a>
-  <a href="https://github.com/ludus-scrinium/asset-atlas"><img alt="Repo Stars" src="https://img.shields.io/github/stars/ludus-scrinium/asset-atlas"></a>
   <a href="https://github.com/ludus-scrinium/asset-atlas/commits/main"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/ludus-scrinium/asset-atlas"></a>
   <a href="https://github.com/ludus-scrinium/asset-atlas/issues"><img alt="Open Issues" src="https://img.shields.io/github/issues/ludus-scrinium/asset-atlas"></a>
-  <a href="https://github.com/ludus-scrinium/asset-atlas/pulls"><img alt="Open PRs" src="https://img.shields.io/github/issues-pr/ludus-scrinium/asset-atlas"></a>
 </p>
 <!-- LS BADGES END -->
 <p align="right">
