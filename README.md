@@ -42,7 +42,7 @@ a simple, searchable catalog for game assets (images, audio, fx, text) so teams 
 ## roadmap (next 4 weeks)
 - [ ] wk1: folder scaffold + sample csv/json + minimal search
 - [ ] wk2: tags + facets (type, owner, last_used)
-- [ ] wk3: â€œrecently usedâ€ + basic upload notes
+- [ ] wk3: recently used + basic upload notes
 - [ ] wk4: export a one-pager catalog for a feature branch
 
 ## status + links
