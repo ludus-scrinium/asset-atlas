@@ -9,7 +9,7 @@
 <!-- LS BADGES END -->
 <p align="right">
   <a href="https://github.com/ludus-scrinium/ludus-scrinium-hub">
-    <img src="https://img.shields.io/badge/â†%20back%20to%20hub-111?style=for-the-badge" alt="back to hub">
+    <img src="https://img.shields.io/badge/←%20back%20to%20hub-111?style=for-the-badge" alt="back to hub">
   </a>
 </p>
 
@@ -33,7 +33,7 @@ a simple, searchable catalog for game assets (images, audio, fx, text) so teams 
 3)  use the quick search (cli or minimal ui) to find an asset by tag
 
 ## demo
-- 60â€“90s clip: **/demo/asset-atlas-v0.mp4** *(placeholder)*
+- 60—90s clip: **/demo/asset-atlas-v0.mp4** *(placeholder)*
 
 ## data policy
 - only tiny, **synthetic** samples live in `/data`
@@ -58,12 +58,12 @@ a simple, searchable catalog for game assets (images, audio, fx, text) so teams 
 
 <p align="center">
   <a href="https://github.com/ludus-scrinium/ludus-scrinium-hub">
-    <img src="https://img.shields.io/badge/â†%20back%20to%20hub-111?style=for-the-badge" alt="back to hub">
+    <img src="https://img.shields.io/badge/←%20back%20to%20hub-111?style=for-the-badge" alt="back to hub">
   </a>
 </p>
 
 
 ---
 
-<p align="center"><a href="https://github.com/ludus-scrinium/ludus-scrinium-hub">â† back to hub</a></p>
+<p align="center"><a href="https://github.com/ludus-scrinium/ludus-scrinium-hub">← back to hub</a></p>
 
