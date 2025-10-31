@@ -7,3 +7,9 @@ CC BY | can use, give credit | safe (attribution)
 CC BY-SA | use, share alike | usually safe (with share-alike)
 CC BY-NC | non-commercial only | portfolio okay, avoid gray area
 UNKNOWN | not sure | skip for v0
+
+# asset sources
+
+source_name | category | license | url
+--- | --- | --- | ---
+Kenney | Art/UI/Audio | CCO | [url](https://kenney.nl/support)
