@@ -28,10 +28,10 @@ Examples:
 `UI_Panel_Yellow_Corner_L_Circle_v3.png`
 
 
-**TYPE values**: ART, AUD, UI (all caps)
+**TYPE values**: *ART, AUD, UI (all caps)*
 
-**Descriptor**: Use plain words, Title_Case, no emojis, no spaces (underscores only)
+**Descriptor**: *Use plain words, Title_Case, no emojis, no spaces (underscores only)*
 
-**Version**: Start at v1; bump to v2, v3 when content changes
+**Version**: *Start at v1; bump to v2, v3 when content changes*
 
-**Length limit**: aim ≤ 30 chars before the extension
+**Length limit**: *aim ≤ 30 chars before the extension*
