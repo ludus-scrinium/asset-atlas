@@ -67,8 +67,8 @@ UI_Panel_Red_CornerL_v1.png
 
 ---
 
-## Accessibility (WCAG-aligned)
-- Underscores are screen-reader friendly; avoid camelCase abbreviations.
+## Accessibility (WCAG)
+- Underscores are screen-reader friendly; no camelCase abbreviations.
 - Use **plain words** a non-specialist understands.
 - Keep names short to prevent truncation in UIs and tooltips.
 
