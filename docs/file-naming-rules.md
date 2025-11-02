@@ -16,15 +16,17 @@ Kenney | Art/UI/Audio | CCO | [url](https://kenney.nl/support)
 
 # file naming
 
-format: TYPE_Descriptor_Words(v).ext
+format: `TYPE_Descriptor_Words(v).ext`
+
 
 Examples:
 
-*ART_Player_Fox_Idle_v1.png*
+`ART_Player_Fox_Idle_v1.png`
 
-*AUD_Frag_Riff_Mid_v2.ogg*
+`AUD_Frag_Riff_Mid_v2.ogg`
 
-*UI_Panel_Yellow_Corner_L_Circle_v3.png*
+`UI_Panel_Yellow_Corner_L_Circle_v3.png`
+
 
 **TYPE values**: ART, AUD, UI (all caps)
 
