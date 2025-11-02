@@ -10,6 +10,7 @@
 [TYPE]_[Descriptor_Words]_v[Version].[ext]
 
 **Examples**
+
 ART_Enemy_Cactus_Front_v1.png
 
 AUD_Loop_Forest_v2.ogg
