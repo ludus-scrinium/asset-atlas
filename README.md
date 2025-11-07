@@ -25,22 +25,20 @@ a simple, searchable catalog for game assets (images, audio, fx, text) so teams 
 - reduces duplicate work
 - makes reuse and review easier
 
-## try it in 5 minutes
-1)  open **/docs/file-naming-rules.md**  
-2)  load the sample data in **/logs/asset-sources.csv**  
-3)  use the quick search to find an asset by tag
+## notes so far
+- [The Great PowerApps Crashout of '25](https://github.com/ludus-scrinium/asset-atlas/blob/main/docs/powerapps-integration.md), Weeks 1 & 2
 
 ## demo
-- table structure sample: **/docs/asset-atlas-v0.mp4** *(placeholder)*
+- [LinkedIn](https://www.linkedin.com/posts/kaosisochiunini_knowledgemanagement-powerapps-uxdesign-activity-7392295811327483904-p_RA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhkRbcBPZstiRXdx_spRDVzp8Nmq3zUs8E)
 
 
-## roadmap (next 4 weeks)
+## roadmap 
 - [x] wk1: folder scaffold + sample csv/json + minimal search
-- [ ] wk2: tags + facets (type, owner, last_used)
+- [x] wk2: tags + facets (category)
 - [ ] wk3: recently used + basic upload notes
 - [ ] wk4: export a one-pager catalog for a feature branch
 
-## status + links
+## setup
 - setup: **/docs/file-naming-rules.md**
 
 ---
