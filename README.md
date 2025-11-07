@@ -26,7 +26,7 @@ a simple, searchable catalog for game assets (images, audio, fx, text) so teams 
 - makes reuse and review easier
 
 ## notes so far
-- [The Great PowerApps Crashout of '25](https://github.com/ludus-scrinium/asset-atlas/blob/main/docs/powerapps-integration.md) | Weeks 1 & 2
+- [The Great PowerApps Crashout of '25](https://github.com/ludus-scrinium/asset-atlas/blob/main/docs/powerapps-integration.md) | weeks 1 & 2
 
 ## demo
 - [LinkedIn](https://www.linkedin.com/posts/kaosisochiunini_knowledgemanagement-powerapps-uxdesign-activity-7392295811327483904-p_RA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhkRbcBPZstiRXdx_spRDVzp8Nmq3zUs8E)
